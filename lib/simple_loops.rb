@@ -1,6 +1,6 @@
 # Write your methods 
 def loop_message_five_times(message)
-5do
+5.times do
 puts "hello world"
 
 end
